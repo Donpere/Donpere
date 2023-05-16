@@ -1,4 +1,4 @@
-### Hi there 👋
+##STUDENT AT SCHOOL 42
 
 <!--
 **Donpere/Donpere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-##STUDENT AT SCHOOL 42
 
 - I'm currently working on several React projects
 - Working too on VM

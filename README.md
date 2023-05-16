@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##STUDENT AT SCHOOL 42
+
+- I'm currently working on several React projects
+- Working too on VM
+- Next file will be Docker of course :)

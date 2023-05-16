@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on several React projects
+- Currently working on several React projects
 - Working too on VM
-- Next file will be Docker of course :)
+- Next file will be Docker of course 😄

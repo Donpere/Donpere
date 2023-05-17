@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominique</h1>
-<h3 align="center">A passionate frontend developer, passed cinematographer</h3>
+<h3 align="center">Film director becomes a passionate developer.</h3>
 
 ## ACTU
 Looking for an internship, ideally in the Île-de-France region.

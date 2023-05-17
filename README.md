@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Tables -->
-| WHEN | WHAT | LEVEL |
-|:------:|:------:|:-------:|
+| **WHEN** | **WHAT** | **LEVEL** |
+|---------- |:-------------: |------: |
 | PASSED | HTML | 75% |
 | CURRENTLY | CSS | 65% |
 | CURRENTLY | REACT | 25% |

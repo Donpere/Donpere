@@ -5,7 +5,7 @@
 
 Looking for an internship, ideally in the Île-de-France region.
 
-<h3 align="left">Languages studied</h3>
+<h3 align="left">LANGUAGES STUDIED</h3>
 <p align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -28,7 +28,7 @@ Looking for an internship, ideally in the Île-de-France region.
 
 </p>
 
-<h3 align="left">Tools studied</h3>
+<h3 align="left">TOOLS STUDIED</h3>
 <p align="left">
 
 <a href="https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3DC9lOu3dvbzr59rj2rxQJ4QUl05ZlUdy9gJfwYCBcJlxZO6k5mZwhoCavQQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjw9pGjBhB-EiwAa5jl3DC9lOu3dvbzr59rj2rxQJ4QUl05ZlUdy9gJfwYCBcJlxZO6k5mZwhoCavQQAvD_BwE:G:s&s_kwcid=AL!3085!3!474049806361!e!!g!!adobe%20photoshop!1435912275!56537390339&gad=1" target="_blank" rel="noreferrer"> 

@@ -17,7 +17,7 @@ Looking for an internship, ideally in the Île-de-France region.
 
 ## LINKS
 - Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
-
+<br>
 - Building in progress [All World Gallery](https://allworldgallery.art/)
 - Building in progress [Peredone](https://peredone.fr)
 

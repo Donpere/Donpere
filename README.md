@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-table {
-  background-color: #f2f2f2;
-}
-</style>
+
 <!-- Tables -->
 | **WHEN** | **WHAT** | **LEVEL** |
 |---------- |:-------------: |------: |

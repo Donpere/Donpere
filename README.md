@@ -56,8 +56,13 @@ Looking for an internship, ideally in the Île-de-France region.
 | SOON      |   PostGreSQL   |       10% |
 | SOON      |    MongoDB     |       10% |
 
-## LINKS
+## WEBSITE BUILDING LINKS
 
 - Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
 - Building in progress [All World Gallery](https://allworldgallery.art/)
 - Building in progress [Peredone](https://peredone.fr)
+
+## MORE LINKS ABOUT ME
+
+- Allocine [Allo cine](https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=698882.html)
+- IMDB [IMDB](https://www.imdb.com/name/nm2422987/)

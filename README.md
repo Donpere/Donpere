@@ -78,5 +78,4 @@ Looking for an internship, ideally in the Île-de-France region.
 
 ## SHOWREEL
 
-<iframe src="https://player.vimeo.com/video/272030185?h=c479d54aa4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/272030185">PEREDONE 2018 SHOWREEL</a> from <a href="https://vimeo.com/peredone">Dominique Marion PEREDONE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/272030185">PEREDONE 2018 SHOWREEL</a> from <a href="https://vimeo.com/peredone">Dominique Marion PEREDONE</a></p>

@@ -2,6 +2,7 @@
 <h3 align="center">Film director becomes a passionate developer.</h3>
 
 ## ACTU
+
 Looking for an internship, ideally in the Île-de-France region.
 
 <h3 align="left">Languages studied</h3>
@@ -33,25 +34,27 @@ Looking for an internship, ideally in the Île-de-France region.
 <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS CODE" width="40" height="40"/> </a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 </p>
 
-| **WHEN** | **WHAT** | **LEVEL** |
-|---------- |:-------------: |------: |
-| PASSED | HTML | 75% |
-| CURRENTLY | CSS | 65% |
-| CURRENTLY | REACT | 25% |
-| CURRENTLY | VM VURTUAL BOX | 15% |
-| SOON | DOCKER | 0% |
-| SOON | SQL | 10% |
-| SOON | PostGreSQL | 10% |
-| SOON | MongoDB | 10% |
-
-
+| **WHEN**  |    **WHAT**    | **LEVEL** |
+| --------- | :------------: | --------: |
+| PASSED    |      HTML      |       75% |
+| CURRENTLY |      CSS       |       65% |
+| CURRENTLY |     REACT      |       25% |
+| CURRENTLY | VM VURTUAL BOX |       15% |
+| SOON      |     DOCKER     |        0% |
+| SOON      |      SQL       |       10% |
+| SOON      |   PostGreSQL   |       10% |
+| SOON      |    MongoDB     |       10% |
 
 ## LINKS
+
 - Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
 - Building in progress [All World Gallery](https://allworldgallery.art/)
 - Building in progress [Peredone](https://peredone.fr)

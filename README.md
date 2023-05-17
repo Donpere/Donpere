@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <!-- Tables --> 
 | WHEN | WHAT | LEVEL | 
 |---------- |:-------------: |------: | 
+| PASSED | HTML | 75% | 
+| CURRENTLY | CSS | 65% |
 | CURRENTLY | REACT | 25% | 
-| CURRENTLY | VM VURTUAL BOX | !)% | 
+| CURRENTLY | VM VURTUAL BOX | 15% | 
 | SOON | DOCKER | 0% | 

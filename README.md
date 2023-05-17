@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!-- Tables --> 
+<!-- Tables -->
 <div style="background-color: #f2f2f2; padding: 10px;">
-| **WHEN** | **WHAT** | **LEVEL** | 
-|---------- |:-------------: |------: | 
-| PASSED | HTML | 75% | 
-| CURRENTLY | CSS | 65% |
-| CURRENTLY | REACT | 25% | 
-| CURRENTLY | VM VURTUAL BOX | 15% | 
-| SOON | DOCKER | 0% | 
-| SOON | SQL | 10% |
-| SOON | PostGreSQL | 10% |
-| SOON | MongoDB | 10% |
+  | **WHEN** | **WHAT** | **LEVEL** |
+  |---------- |:-------------: |------: |
+  | PASSED | HTML | 75% |
+  | CURRENTLY | CSS | 65% |
+  | CURRENTLY | REACT | 25% |
+  | CURRENTLY | VM VURTUAL BOX | 15% |
+  | SOON | DOCKER | 0% |
+  | SOON | SQL | 10% |
+  | SOON | PostGreSQL | 10% |
+  | SOON | MongoDB | 10% |
 </div>
+

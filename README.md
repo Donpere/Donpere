@@ -35,7 +35,7 @@ Looking for an internship, ideally in the Île-de-France region.
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 
 <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank" rel="noreferrer"> 
-	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1280px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS CODE" width="40" height="40"/> </a>

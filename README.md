@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Tables --> 
-| Product | Company | Price | 
+| WHEN | WHAT | LEVEL | 
 |---------- |:-------------: |------: | 
-| Product 1 | Company 1 | $1600 | 
-| Product 2 | Company 2 | $1700 | 
-| Product 3 | Company 3 | $1800 | 
-
-- Currently working on several React projects
-- Working too on VM
-- Next file will be Docker of course 😄
+| CURRENTLY | REACT | 25% | 
+| CURRENTLY | VM VURTUAL BOX | !)% | 
+| SOON | DOCKER | 0% | 

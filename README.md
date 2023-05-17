@@ -52,7 +52,7 @@ Looking for an internship, ideally in the Île-de-France region.
 
 </p>
 
-## WHAT I'WORKING ON
+## WHAT I'M WORKING ON
 
 | **WHEN**  |    **WHAT**    | **LEVEL** |
 | --------- | :------------: | --------: |

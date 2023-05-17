@@ -13,10 +13,11 @@
 | SOON | MongoDB | 10% |
 
 ## ACTU
-En recherche de stage WEB
+Looking for an internship, ideally in the Île-de-France region.
 
 ## LINKS
 - Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
+
 - Building in progress [All World Gallery](https://allworldgallery.art/)
 - Building in progress [Peredone](https://peredone.fr)
 

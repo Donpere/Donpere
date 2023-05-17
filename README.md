@@ -23,13 +23,16 @@ Looking for an internship, ideally in the Île-de-France region.
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 	<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 
-<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
 
 </p>
 
 <h3 align="left">Tools studied</h3>
 <p align="left">
+
+<a href="https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3DC9lOu3dvbzr59rj2rxQJ4QUl05ZlUdy9gJfwYCBcJlxZO6k5mZwhoCavQQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjw9pGjBhB-EiwAa5jl3DC9lOu3dvbzr59rj2rxQJ4QUl05ZlUdy9gJfwYCBcJlxZO6k5mZwhoCavQQAvD_BwE:G:s&s_kwcid=AL!3085!3!474049806361!e!!g!!adobe%20photoshop!1435912275!56537390339&gad=1" target="_blank" rel="noreferrer"> 
+	<img src="https://pngimg.com/d/photoshop_PNG11.png" alt="illustrator" width="40" height="40"/> </a>
 
 <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>

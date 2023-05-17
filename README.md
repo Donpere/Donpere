@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Tables --> 
----
-
-| **WHEN** | **WHAT** | **LEVEL** |
-|---------- |:-------------: |------: |
+<!-- Tables -->
+| WHEN | WHAT | LEVEL |
+|:------:|:------:|:-------:|
 | PASSED | HTML | 75% |
 | CURRENTLY | CSS | 65% |
 | CURRENTLY | REACT | 25% |
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
 | SOON | PostGreSQL | 10% |
 | SOON | MongoDB | 10% |
 
----
+
 
 
 

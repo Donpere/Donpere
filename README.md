@@ -43,6 +43,9 @@ Looking for an internship, ideally in the Île-de-France region.
 <a href="https://www.adobe.com/fr/products/aftereffects/landpb.html?gclid=CjwKCAjw9pGjBhB-EiwAa5jl3F4Zj4t1kGWGp8Efg3gxKfgsaa1d4v6Ndt6-upqBU4WOsRZOSSfs5hoChHwQAvD_BwE&mv=search&mv=search&sdid=MYYBRYZH&ef_id=CjwKCAjw9pGjBhB-EiwAa5jl3F4Zj4t1kGWGp8Efg3gxKfgsaa1d4v6Ndt6-upqBU4WOsRZOSSfs5hoChHwQAvD_BwE:G:s&s_kwcid=AL!3085!3!600183576455!e!!g!!after%20effects!1435912503!56537405219&gad=1" target="_blank" rel="noreferrer"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/langfr-1280px-Adobe_After_Effects_CC_icon.svg.png" alt="after effect" width="40" height="40"/> </a>
 
+<a href="https://www.apple.com/fr/final-cut-pro/" target="_blank" rel="noreferrer"> 
+	<img src="https://upload.wikimedia.org/wikipedia/fr/a/a5/Final_Cut_Pro_Logo_2015.png" alt="final cut" width="40" height="40"/> </a>
+
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS CODE" width="40" height="40"/> </a>
 

@@ -52,11 +52,11 @@ Looking for an internship, ideally in the Île-de-France region.
 
 </p>
 
-## WHAT I'M WORKING ON
+## TASKS I'M WORKING ON
 
 | **WHEN**  |    **WHAT**    | **LEVEL** |
 | --------- | :------------: | --------: |
-| PASSED    |      HTML      |       75% |
+| PAST      |      HTML      |       75% |
 | CURRENTLY |      CSS       |       65% |
 | CURRENTLY |     REACT      |       25% |
 | CURRENTLY | VM VIRTUAL BOX |       15% |

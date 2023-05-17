@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 En recherche de stage WEB
 
 ## LINKS
-- Building in progress [Cantina Clandestina Paris](https://cantinaclandestina.org/)
+- Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
+- Building in progress [All World Gallery](https://allworldgallery.art/)
+- Building in progress [Peredone](https://peredone.fr)
 
 

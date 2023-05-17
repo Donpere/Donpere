@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Tables --> 
+| Product | Company | Price | 
+|---------- |:-------------: |------: | 
+| Product 1 | Company 1 | $1600 | 
+| Product 2 | Company 2 | $1700 | 
+| Product 3 | Company 3 | $1800 | 
+
 - Currently working on several React projects
 - Working too on VM
 - Next file will be Docker of course 😄

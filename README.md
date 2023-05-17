@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Tables --> 
+---
+
 | **WHEN** | **WHAT** | **LEVEL** |
 |---------- |:-------------: |------: |
 | PASSED | HTML | 75% |
@@ -26,5 +28,8 @@ Here are some ideas to get you started:
 | SOON | SQL | 10% |
 | SOON | PostGreSQL | 10% |
 | SOON | MongoDB | 10% |
+
+---
+
 
 

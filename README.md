@@ -52,6 +52,8 @@ Looking for an internship, ideally in the Île-de-France region.
 
 </p>
 
+## WHAT I'WORKING ON
+
 | **WHEN**  |    **WHAT**    | **LEVEL** |
 | --------- | :------------: | --------: |
 | PASSED    |      HTML      |       75% |

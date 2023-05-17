@@ -1,24 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dominique</h1>
 <h3 align="center">A passionate frontend developer, passed cinematographer</h3>
 
-| **WHEN** | **WHAT** | **LEVEL** |
-|---------- |:-------------: |------: |
-| PASSED | HTML | 75% |
-| CURRENTLY | CSS | 65% |
-| CURRENTLY | REACT | 25% |
-| CURRENTLY | VM VURTUAL BOX | 15% |
-| SOON | DOCKER | 0% |
-| SOON | SQL | 10% |
-| SOON | PostGreSQL | 10% |
-| SOON | MongoDB | 10% |
-
 ## ACTU
 Looking for an internship, ideally in the Île-de-France region.
-
-## LINKS
-- Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
-- Building in progress [All World Gallery](https://allworldgallery.art/)
-- Building in progress [Peredone](https://peredone.fr)
 
 <h3 align="left">Languages studied</h3>
 <p align="left">
@@ -53,3 +37,21 @@ Looking for an internship, ideally in the Île-de-France region.
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 </p>
+
+| **WHEN** | **WHAT** | **LEVEL** |
+|---------- |:-------------: |------: |
+| PASSED | HTML | 75% |
+| CURRENTLY | CSS | 65% |
+| CURRENTLY | REACT | 25% |
+| CURRENTLY | VM VURTUAL BOX | 15% |
+| SOON | DOCKER | 0% |
+| SOON | SQL | 10% |
+| SOON | PostGreSQL | 10% |
+| SOON | MongoDB | 10% |
+
+
+
+## LINKS
+- Builded [Cantina Clandestina Paris](https://cantinaclandestina.org/)
+- Building in progress [All World Gallery](https://allworldgallery.art/)
+- Building in progress [Peredone](https://peredone.fr)

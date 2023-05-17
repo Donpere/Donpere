@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 | CURRENTLY | REACT | 25% | 
 | CURRENTLY | VM VURTUAL BOX | 15% | 
 | SOON | DOCKER | 0% | 
-| SOON | SQL | 0% |
+| SOON | SQL | 10% |
 | SOON | PostGreSQL | 10% |
 | SOON | MongoDB | 10% |

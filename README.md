@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Tables --> 
+<div style="background-color: #f2f2f2; padding: 10px;">
 | **WHEN** | **WHAT** | **LEVEL** | 
 |---------- |:-------------: |------: | 
 | PASSED | HTML | 75% | 
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
 | SOON | SQL | 10% |
 | SOON | PostGreSQL | 10% |
 | SOON | MongoDB | 10% |
+</div>

@@ -48,7 +48,7 @@ Looking for an internship, ideally in the Île-de-France region.
 	<img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS CODE" width="40" height="40"/> </a>
 
 <a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"> 
-	<img src="https://commons.wikimedia.org/wiki/File:WordPress_blue_logo.svg" alt="WORD PRESS" width="40" height="40"/> </a>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/768px-WordPress_blue_logo.svg.png" alt="WORD PRESS" width="40" height="40"/> </a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="FIGMA" width="40" height="40"/> </a>

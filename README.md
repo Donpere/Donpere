@@ -61,6 +61,7 @@ Looking for an internship, ideally in the Île-de-France region.
 | --------- | :------------: | --------: |
 | PAST      |      HTML      |       75% |
 | CURRENTLY |      CSS       |       65% |
+| CURRENTLY |       JS       |       25% |
 | CURRENTLY |     REACT      |       25% |
 | CURRENTLY | VM VIRTUAL BOX |       15% |
 | SOON      |     DOCKER     |        5% |

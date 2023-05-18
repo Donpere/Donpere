@@ -17,7 +17,7 @@ Looking for an internship, ideally in the Île-de-France region.
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+	<img src="https://commons.wikimedia.org/wiki/File:WordPress_blue_logo.svg" alt="javascript" width="40" height="40"/> </a>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 	<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>

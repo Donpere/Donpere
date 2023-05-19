@@ -3,7 +3,8 @@
 
 ## ACTU
 
-Looking for an internship, ideally in the Île-de-France region.
+You'll find several projects and docs I'm using here.
+For now, I'm looking for an internship, ideally in the Île-de-France region.
 
 ## LANGUAGES STUDIED
 

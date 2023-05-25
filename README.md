@@ -24,8 +24,7 @@ For now, I'm looking for an internship, ideally in the Île-de-France region.
 	<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 	
 <a href="https://www.json.org/json-fr.html" target="_blank" rel="noreferrer"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/240px
-		  JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/> </a>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/240px-JSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/> </a>
 
 <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->

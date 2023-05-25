@@ -70,10 +70,10 @@ For now, I'm looking for an internship, ideally in the Île-de-France region.
 | --------- | :------------: | --------: |
 | PAST      |      HTML      |       75% |
 | CURRENTLY |      CSS       |       65% |
-| CURRENTLY |       JS       |       25% |
+| CURRENTLY |       JS       |       35% |
 | CURRENTLY |     REACT      |       25% |
 | CURRENTLY | VM VIRTUAL BOX |       15% |
-| SOON      |     DOCKER     |        5% |
+| SOON      |     DOCKER     |       35% |
 | SOON      |      SQL       |       10% |
 | SOON      |   PostGreSQL   |       10% |
 | SOON      |    MongoDB     |       10% |

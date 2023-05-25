@@ -22,6 +22,9 @@ For now, I'm looking for an internship, ideally in the Île-de-France region.
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
 	<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+	
+<a href="https://www.json.org/json-fr.html" target="_blank" rel="noreferrer"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/240pxJSON_vector_logo.svg.png" alt="JSON" width="40" height="40"/> </a>
 
 <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
@@ -53,6 +56,11 @@ For now, I'm looking for an internship, ideally in the Île-de-France region.
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="FIGMA" width="40" height="40"/> </a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="DOCKER" width="40" height="40"/> </a>
+
+
 
 </p>
 

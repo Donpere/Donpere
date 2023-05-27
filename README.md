@@ -73,7 +73,8 @@ For now, I'm looking for an internship, ideally in the Île-de-France region.
 | CURRENTLY |       JS       |       35% |
 | CURRENTLY |     REACT      |       25% |
 | CURRENTLY | VM VIRTUAL BOX |       15% |
-| SOON      |     DOCKER     |       35% |
+| CURRENTLY |     DOCKER     |       35% |
+| CURRENTLY |     NGINX      |       35% |
 | SOON      |      SQL       |       10% |
 | SOON      |   PostGreSQL   |       10% |
 | SOON      |    MongoDB     |       10% |

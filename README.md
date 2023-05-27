@@ -60,6 +60,9 @@ For now, I'm looking for an internship, ideally in the Île-de-France region.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="DOCKER" width="40" height="40"/> </a>
 
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+	<img src="[https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png](https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg)" alt="NGINX" width="40" height="40"/> </a>
+
 
 
 </p>
